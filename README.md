@@ -21,6 +21,10 @@ I'm a passionate Software Engineering student with a strong interest in developi
 ### [Bootcamp Capgemini 2024](https://github.com/rubenrc233/Bootcamp-Capgemini-2024)
 A collection of projects developed during the Capgemini Bootcamp 2024, including Java, Spring, JavaScript, and more.
 
+
+### [University projects](https://github.com/UO276255?tab=repositories)
+Collection of repositories developed during my univerity degree
+
 ## 💼 Work Experience
 
 ### Software Engineering Intern
