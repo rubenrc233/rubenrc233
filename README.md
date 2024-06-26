@@ -1,4 +1,4 @@
-# Hi there, I'm Rubén Rodríguez 👋
+# Hi there, I'm Rubén Rubio 👋
 
 I'm a passionate Software Engineering student with a strong interest in developing scalable and efficient applications. I love exploring new technologies and continuously improving my skills. Here, you'll find some of the projects I've worked on, showcasing my skills and learning journey.
 
